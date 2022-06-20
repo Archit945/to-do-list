@@ -1,0 +1,45 @@
+#header{
+    display : flexbox;
+    text-align: center;
+    font-size: 60px;
+}
+
+body {
+    background-color: #e8f3ff;
+    display : flexbox;
+    /* border: 3px solid #73AD21; */
+  }
+
+#center{
+    display : flexbox;
+    margin: auto; 
+    width: 50%; 
+    height: 50px;
+    padding: 10px;
+    text-align: center; 
+    font-size: 30px; 
+}
+
+#addItem{
+    display : flexbox;
+    font-size: 30px;
+    display : flexbox;
+}
+
+#submit #clear{
+    border: 3px solid #10aca4;
+    float: left;
+    display : flexbox;
+    width: 10%;
+    height: 60%;
+}
+
+#footer{
+    position: fixed;
+    width: 50%;
+    bottom: 10px; 
+    left: 10px;
+    float: left;
+    font-size: 10px;
+
+}
